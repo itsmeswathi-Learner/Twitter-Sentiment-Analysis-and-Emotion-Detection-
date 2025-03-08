@@ -29,9 +29,13 @@ To fetch tweets, you need **Twitter Developer API Keys**.
 2️⃣ **Get API keys & access tokens**, then create a `.env` file in your project folder:  
 
 API_KEY=your_api_key
+
 API_SECRET=your_api_secret
+
 ACCESS_TOKEN=your_access_token
+
 ACCESS_SECRET=your_access_secret
+
 BEARER_TOKEN=your_bearer_token
 
 ⚡ Twitter API Access (Free Tier)
