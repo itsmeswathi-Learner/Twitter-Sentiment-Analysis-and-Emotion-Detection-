@@ -1,0 +1,7 @@
+# Ignore system folders and cache files
+AppData/
+*.log
+*.tmp
+*.cache
+__pycache__/
+output/
