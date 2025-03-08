@@ -16,7 +16,7 @@ Sentiment Distribution (Pie Chart)
 
 🔹 Word Cloud of Most Used Words
 
-C:\Users\Swathi\Desktop\twitter project 2026\output
+![image](https://github.com/user-attachments/assets/da3b975b-292f-4084-95a1-43f1a471a449)
 
 🛠 Technologies Used
 Python 3.13
