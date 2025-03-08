@@ -21,11 +21,15 @@ Sentiment Distribution (Pie Chart)
 🛠 Technologies Used
 
 Python 3.13
-Tweepy (Twitter API v2)
-TextBlob for sentiment analysis
-Pandas, NumPy for data handling
-Matplotlib, Seaborn for visualization
-WordCloud for generating word clouds
+-->Tweepy (Twitter API v2)
+
+-->TextBlob for sentiment analysis
+
+-->Pandas, NumPy for data handling
+
+-->Matplotlib, Seaborn for visualization
+
+-->WordCloud for generating word clouds
 
 🤝 Contributing
 Want to contribute? Feel free to fork this repo, create a pull request, and share your improvements!
