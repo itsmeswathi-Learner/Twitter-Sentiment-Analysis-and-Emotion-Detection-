@@ -3,7 +3,8 @@
 This project performs **sentiment analysis** and **emotion detection** on real-time **Twitter data** using **Natural Language Processing (NLP)** and **Machine Learning (ML)** models. It helps in understanding the overall sentiment of tweets (**positive, negative, or neutral**) and detects emotions based on the text content.  
 
 
-## 📌 **Project Features**  
+## 📌 **Project Features**:
+
 ✅ **Fetches live tweets** using **Twitter API v2 (Free Access)**  
 ✅ **Preprocesses tweets** (removes URLs, emojis, mentions, hashtags, etc.)  
 ✅ **Performs sentiment analysis** using **TextBlob**  
@@ -11,7 +12,8 @@ This project performs **sentiment analysis** and **emotion detection** on real-t
 ✅ **Monitors real-time sentiment trends** for brands or keywords  
 
 
-## 🛠 **Technologies Used**
+## 🛠 **Technologies Used**:
+
 - **Python 3.13**  
 - **Tweepy (Twitter API v2)**  
 - **TextBlob** for sentiment analysis  
@@ -39,6 +41,7 @@ This project uses Twitter API v2 (Free Access) to fetch live tweets.
 Can only fetch tweets from the last 7 days
 Rate limit: 450 requests per 15 minutes for recent searches
 No access to historical tweets (for older data, paid plans are required)
+
 📢 Want more access? Upgrade to a Twitter Developer Premium/Enterprise plan at developer.twitter.com
 
 📊 Results & Visualizations:
@@ -59,11 +62,5 @@ No access to historical tweets (for older data, paid plans are required)
 
 
 4️⃣ Word Frequency Table
+
 Check output/word_frequency.csv for the most common words in the dataset.
-
-
-🚀 Installation & Setup:
-
-git add README.md
-git commit -m "Updated README with output images and results"
-git push origin main
