@@ -42,9 +42,10 @@ BEARER_TOKEN=your_bearer_token
 This project uses Twitter API v2 (Free Access) to fetch live tweets.
 📌 Limitations of Free Access:
 
-Can only fetch tweets from the last 7 days
-Rate limit: 450 requests per 15 minutes for recent searches
-No access to historical tweets (for older data, paid plans are required)
+Can only fetch tweets from the last 7 days.
+Rate limit: 450 requests per 15 minutes for recent searches.
+Twitter resets free-tier limits every 15 minutes to 1 hour.
+No access to historical tweets (for older data, paid plans are required).
 
 📢 Want more access? Upgrade to a Twitter Developer Premium/Enterprise plan at developer.twitter.com
 
