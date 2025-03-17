@@ -51,6 +51,8 @@ No access to historical tweets (for older data, paid plans are required).
 
 📊 Results & Visualizations:
 
+Input keyword: AI Revolution
+
 1️⃣ Sentiment Distribution (Bar Chart)
 
  ![image](https://github.com/user-attachments/assets/f4a5d22f-50a4-4909-8579-1505c74f99f6)
