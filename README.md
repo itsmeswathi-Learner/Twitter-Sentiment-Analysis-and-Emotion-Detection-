@@ -40,6 +40,7 @@ BEARER_TOKEN=your_bearer_token
 
 ⚡ Twitter API Access (Free Tier)
 This project uses Twitter API v2 (Free Access) to fetch live tweets.
+
 📌 Limitations of Free Access:
 
 Can only fetch tweets from the last 7 days.
